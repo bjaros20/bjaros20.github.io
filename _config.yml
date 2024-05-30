@@ -78,29 +78,29 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: ""
+    url: 
     desc: Follow me on Twitter
     share: true
 
-  - name: Facebook
-    icon: facebook
-    username: thebencentra
+  - name:
+    icon: 
+    username: 
     url: ""
-    desc: Friend me on Facebook
+    desc: 
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
-    desc: Fork me on GitHub
+    username: bjaros20
+    url: https://github.com/bjaros20
+    desc: 
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Ben Jaros
+    url: www.linkedin.com/in/benjamin-jaros-a3a318121
     desc: Connect with me on LinkedIn
     share: true
 
