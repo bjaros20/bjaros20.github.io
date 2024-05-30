@@ -16,7 +16,11 @@ About the Site
 
 On this site you will find my CV and other items for the Job Market, links to my projects in Github, and my tax blog, which includes my less formal, but perhaps instructive observations in the tax policy space. 
 
-
+📬 Contact
+Reach out to me at:
+Email: bjaros@clemson.edu
+LinkedIn: https://www.linkedin.com/in/benjamin-jaros-a3a318121/
+Github: https://github.com/bjaros20
 
 [centrarium]: 
 [bencentra]: http://bencentra.com
