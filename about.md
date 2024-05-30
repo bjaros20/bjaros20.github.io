@@ -22,6 +22,3 @@ Email: bjaros@clemson.edu
 LinkedIn: https://www.linkedin.com/in/benjamin-jaros-a3a318121/
 Github: https://github.com/bjaros20
 
-[centrarium]: 
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
