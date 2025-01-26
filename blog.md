@@ -3,6 +3,7 @@ layout: page
 title: "Blog"
 permalink: /posts/
 main_nav: true
+weight: 3
 ---
 
 {% for category in site.categories %}
