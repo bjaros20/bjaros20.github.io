@@ -14,5 +14,5 @@ You can download my CV here:
      event_category: 'Documents',
      event_label: 'CV'
    });">
-   📄 Download CV (PDF)
+   Download CV (PDF)
 </a>
