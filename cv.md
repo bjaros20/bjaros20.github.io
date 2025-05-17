@@ -7,4 +7,12 @@ weight: 2
 # Curriculum Vitae
 
 You can download my CV here:
-[Download CV (PDF)]({{ site.baseurl }}/files_for_upload/Jaros,Benjamin_CV_April_2025_public.pdf)
+
+<a href="{{ site.baseurl }}/files_for_upload/Jaros,Benjamin_CV_April_2025_public.pdf" 
+   download 
+   onclick="gtag('event', 'download', {
+     event_category: 'Documents',
+     event_label: 'CV'
+   });">
+   📄 Download CV (PDF)
+</a>
