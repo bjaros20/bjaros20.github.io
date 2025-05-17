@@ -6,7 +6,7 @@ weight: 1
 
 # Research
 
-### 🧑‍🏫 Job Market Paper
+### Job Market Paper
 
 **The Impact of Single Sales Factor Apportionment on State Tax Revenues: Short- and Long-Run Effects**  
 [📄 Download PDF]( {{ site.baseurl }}/files_for_upload/Single_Sales_Factor_App_State_Tax_Revenues_5_16.pdf )
@@ -15,4 +15,6 @@ weight: 1
 
 Additionally, here is a copy of supplemental plots:  
 [📊 Download Plot Appendix (PDF)]({{ site.baseurl }}/files_for_upload/Plot_Appendix_December_Draft_2024__Jaros___JMP.pdf)
+
+
 
