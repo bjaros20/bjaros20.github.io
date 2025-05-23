@@ -32,3 +32,11 @@ Additionally, here is a copy of supplemental plots:
 
 **Tax Abatements for Data Centers and Government Output: Short-Run Effects on Public Sector Activity**
 <p><em>State and local governments use tax abatements to attract data centers, which are capital-intensive facilities with relatively low employment. Prior research on tax incentives has documented positive and negative spillovers depending upon the duration of the firm's tenure, the size of the abatement or subsidy, and the type of firm. This paper estimates the effects of data center location on local government and sector-specific output per capita from attracting data centers through tax abatements. Using a panel dataset of 135 tax abatements granted by 44 counties in 20 states over the past 20 years, I estimate that a tax abatement for a data center led to an increase in government sector output in the year following the incentive. This increase persists into the second year, suggesting modest short-term fiscal changes to the locality.</em></p>
+
+---
+
+## Dissertation
+
+**Borders and Burdens: Three Essays on Inter-jurisdictional Tax Policy in America**  
+[Link to Dissertation](https://open.clemson.edu/all_dissertations/3953/)
+
