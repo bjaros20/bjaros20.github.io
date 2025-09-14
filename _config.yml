@@ -1,7 +1,7 @@
 # Site settings
 title: Benjamin Jaros
 subtitle: "Personal website and blog"
-email: bjaros@clemson.edu
+email: benjaros@stanford.edu
 description: "Personal website highlighting my research and CV."
 baseurl: "" # Leave blank for hosting at the root
 url: "https://bjaros20.github.io" # Your GitHub Pages URL
