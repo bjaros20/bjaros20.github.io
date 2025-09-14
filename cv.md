@@ -8,7 +8,7 @@ weight: 2
 
 You can download my CV here:
 
-<a href="{{ site.baseurl }}/files_for_upload/Jaros,Benjamin_CV_April_2025_public.pdf" 
+<a href="{{ site.baseurl }}/files_for_upload/Jaros,Benjamin_CV_Sept_2025_public.pdf" 
    download 
    onclick="gtag('event', 'download', {
      event_category: 'Documents',
