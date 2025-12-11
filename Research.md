@@ -72,4 +72,4 @@ For shorter policy analysis and commentary, visit my [Substack](https://substack
 
 ---
 
-*Last updated: November 2025*
+*Last updated: December 2025*
