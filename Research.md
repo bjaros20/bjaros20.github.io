@@ -13,15 +13,22 @@ My research focuses on public finance, tax policy, and economic history, with pa
 ## Job Market Paper
 
 **The Impact of Single Sales Factor Apportionment on State Tax Revenues: Short- and Long-Run Effects**
-
-<a href="{{ site.baseurl }}/files_for_upload/Single_Sales_Factor_App_State_Tax_Revenues_5_16.pdf" 
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5357629" 
+   target="_blank"
+   onclick="gtag('event', 'click', {
+     event_category: 'External Links',
+     event_label: 'SSRN Working Paper'
+   });" 
+   style="font-weight: bold;">
+  [SSRN Working Paper]
+</a> | 
+<a href="{{ site.baseurl }}/files_for_upload/SSFA_Online_Appendix_Dec_2025.pdf" 
    download 
    onclick="gtag('event', 'download', {
      event_category: 'Documents',
-     event_label: 'Job Market Paper'
-   });" 
-   style="font-weight: bold;">
-  [Download Paper (PDF)]
+     event_label: 'JMP Online Appendix'
+   });">
+  [Online Appendix]
 </a> | 
 <a href="{{ site.baseurl }}/files_for_upload/Plot_Appendix_December_Draft_2024__Jaros___JMP.pdf" 
    download 
