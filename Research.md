@@ -103,6 +103,21 @@ My research focuses on public finance, tax policy, and economic history, with pa
 
 **Abstract:** This report examines the revenue and migration impact of the 2026 California Billionaire Tax Act, a one-time 5 percent excise tax on the worldwide net worth of individuals exceeding $1 billion as of January 1, 2026. While proponents project approximately $100 billion in collections, we estimate roughly $40 billion in actual wealth tax revenue. Accounting for lost future income tax contributions from billionaires who depart the state, we find a net negative fiscal impact of approximately $25 billion.
 
+### Wealth Tax Primer
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6264759"
+   target="_blank"
+   onclick="gtag('event', 'click', {
+     event_category: 'External Links',
+     event_label: 'SSRN Wealth Tax Primer'
+   });"
+   style="font-weight: bold;">
+  [SSRN Working Paper]
+</a>
+
+*with Joshua D. Rauh, Matheus Cosso, and John Doran*
+
+**Abstract:** This primer examines the administrative, empirical, and economic case against wealth taxation at the state and national levels. Wealth taxes emerged in earlier fiscal systems where tangible, immobile assets were the most feasible tax base. As financial markets expanded and capital became more mobile, advanced economies shifted toward income and consumption taxes, and most countries that experimented with modern wealth taxes ultimately repealed them after encountering administrative complexity, capital flight, and limited revenues. Drawing on historical and empirical evidence, we document that wealth tax revenue estimates lack credibility because these estimates rely on untested assumptions about asset valuation and taxpayer behavior. High-income and high-net-worth taxpayers are particularly responsive to wealth taxation, so subsequent adoption of wealth taxes by jurisdictions lead to the erosion of the wealth tax and other tax bases, in addition to political pressure to expand the scope of the tax over time. Wealth taxes also distort incentives to save, invest, and build businesses, with implications for long-term capital formation and economic growth for the adopting jurisdictions.
+
 ---
 
 ## Dissertation
